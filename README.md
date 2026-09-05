@@ -19,7 +19,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm 21 years old from Germany<br><br>- 🔭 I’m working as warehouse clerk<br>- 📚 I'm a Dev who making Websites, Discord.py Bots and more<br>- ⚡ In my free time I'm a volunteer firefighter</p>
+<p data-importer="text" align="left">I'm 21 years old from Germany<br><br>- 📦 I’m working as warehouse clerk<br>- ⚙️ I'm a Dev who making Websites, Discord.py Bots and more<br>- 🧑‍🚒 In my free time I'm a volunteer firefighter</p>
 
 ###
 
