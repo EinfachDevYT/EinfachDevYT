@@ -38,7 +38,7 @@
         </tr>
         <tr>
           <td>🧑‍💻 &nbsp;<b>Rolle</b></td>
-          <td>Solo Developer</td>
+          <td>Developer</td>
         </tr>
         <tr>
           <td>🎯 &nbsp;<b>Fokus</b></td>
