@@ -15,7 +15,7 @@
   &nbsp;
   <a href="https://discord.com/users/267311011520970752"><img src="assets/btn-discord.svg" height="46" alt="Discord" /></a>
   &nbsp;
-  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Feinfachdev&label=VIEWS&labelColor=%230D0B14&countColor=%23A855F7&style=for-the-badge" height="46" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FEinfachDevYT&label=VIEWS&labelColor=%230D0B14&countColor=%23A855F7&style=for-the-badge" height="46" alt="Profile Views" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
@@ -102,12 +102,11 @@
 <h2 align="center">📊 &nbsp;GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=einfachdev&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=einfachdev&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A855F7&text_color=C4B5FD" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EinfachDevYT&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=einfachdev&hide_border=true&background=0D0B14&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C4B5FD&currStreakNum=F7F3FF&sideNums=F7F3FF&dates=C4B5FD&stroke=6D28D9" />
+  <img src="https://streak-stats.demolab.com?user=EinfachDevYT&hide_border=true&background=0D0B14&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C4B5FD&currStreakNum=F7F3FF&sideNums=F7F3FF&dates=C4B5FD&stroke=6D28D9" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
